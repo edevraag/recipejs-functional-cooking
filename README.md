@@ -4,14 +4,6 @@ RecipeJS is a modern, interactive recipe web application built using **HTML, CSS
 
 The app allows users to browse recipes, filter and sort them, search in real time, expand recipes to view ingredients and steps, and save favorite recipes with persistent storage.
 
----
-
-## 🚀 Live Demo
-👉 *(Add GitHub Pages link here if deployed)*  
-Example: https://your-username.github.io/recipejs-functional-cooking/
-
----
-
 ## ✨ Features
 
 ### 🧱 Core Functionality
