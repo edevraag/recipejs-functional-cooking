@@ -63,6 +63,5 @@ The app allows users to browse recipes, filter and sort them, search in real tim
 - Responsive design principles
 
 ---
-
-## 🏗️ Project Structure
+edited here !!!!
 
